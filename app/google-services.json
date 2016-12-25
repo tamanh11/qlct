@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "780783644195",
+    "firebase_url": "https://ql-chi-tieu.firebaseio.com",
+    "project_id": "ql-chi-tieu",
+    "storage_bucket": "ql-chi-tieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780783644195:android:435e7ec61e4cfa67",
+        "android_client_info": {
+          "package_name": "com.welcome.quanlychitieu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780783644195-ov2sohm22hmpbrbg10o1lntqds9jmhet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssA4Gi_ArIK6NIrN_Dx4J3qtkNDc-hwo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
